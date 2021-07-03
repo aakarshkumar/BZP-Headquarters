@@ -1,0 +1,6 @@
+In order to sort lists in Python Jupter Notebook, you must add something like
+L.sort()
+Before that, you must add something like this.
+L=["poop","laughes","while","anshu","stares","at","him"]
+Then after L.sort() type something like this.
+print(L)
